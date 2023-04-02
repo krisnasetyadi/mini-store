@@ -2,6 +2,7 @@ Techstack :
 - Next jS
 - Stripe
 - Zustand
+- TailwindCSS
 ## Getting Started
 
 First, run the development server:
